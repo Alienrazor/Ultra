@@ -34,3 +34,7 @@ python run.py
 <a href="https://github.com/Alienrazor/Ultra/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alienrazor/Ultra?label=Watchers&color=blue&style=flat-square"></a>
 
 </p>
+
+<p align="center">
+<img src='Alienrazor/Ultra/SS/IMG_20220911.jpg' style="height:300px;width:300px;" >
+
