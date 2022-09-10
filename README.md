@@ -35,6 +35,6 @@ python run.py
 
 </p>
 
-<p align="center">
-<img src='https://github.com/Alienrazor/Ultra/blob/main/SS/IMG_20220911.JPG' style="height:300px;width:300px;" >
+<p align="left">
+<img src='https://github.com/Alienrazor/Ultra/blob/main/SS/IMG_20220911.JPG' style="height:600px;width:300px;" >
 
