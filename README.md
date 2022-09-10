@@ -1,3 +1,4 @@
+
 # Ultra
 
 pkg update
@@ -27,4 +28,9 @@ ls
 
 python run.py
 
-<p align="center"><a href="https://Alienrazor.github.io"><img width="80%" alt="Hello, I'm Aleinrazor. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+
+
+<a href="https://github.com/Alienrazor/Ultra/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Alienrazor/Ultra?label=Watchers&color=blue&style=flat-square"></a>
+
+</p>
